@@ -4,5 +4,9 @@
 - Learned Variables, Datatype and Operators
 - Exercise: calculator program
 
-### Day 1 – Conditional Statement
+### Day 2 – Conditional Statement
 - Learned if, else, elif, nested
+
+### Day 3 – Loops
+- Learned for, while, nested and loop control statement
+- Question practice
