@@ -11,5 +11,8 @@
 - Learned for, while, nested and loop control statement
 - Question practice
 
-### Day 4 - Functions\
+### Day 4 - Functions
 - Learned function and recurssion
+
+### Day 5 - LDST
+- Learned list, tuples, dictionary and sets
