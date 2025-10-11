@@ -10,3 +10,6 @@
 ### Day 3 – Loops
 - Learned for, while, nested and loop control statement
 - Question practice
+
+### Day 4 - Functions\
+- Learned function and recurssion
