@@ -20,3 +20,5 @@
 ### Day 6 - Project: Sanke, Gun and Water
 - Created a game using python
 - Also created html and css for the same but now connected it because we are still not there yet
+- Learned File I/O
+- Questions Practice
