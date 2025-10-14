@@ -20,5 +20,15 @@
 ### Day 6 - Project: Sanke, Gun and Water
 - Created a game using python
 - Also created html and css for the same but now connected it because we are still not there yet
+
+### Day 7 - File I/O
 - Learned File I/O
+- Questions Practice
+
+### Day 8 - OOP Part-I
+- Learned Class
+- Learned Objects
+- Learned Method and Static Method
+- Learned Abstraction
+- Learned Encapsulation
 - Questions Practice
