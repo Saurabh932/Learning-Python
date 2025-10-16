@@ -11,6 +11,9 @@ class Employee:
         self.name = name       # public attribute - can be accessed by anyone
         self.__id =id          # private attribute - access restricted
         self.__salary = salary # private attribute - access restricted
+  
+    ''' Here __salary "__" means we are making the attribute private and cannot access out 
+        of class. '''
         
     def get_att(self):
         print(self.__id, self.__salary)
