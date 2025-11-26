@@ -1,0 +1,9 @@
+Pointer Problem?
+
+Choose one:
+
+1️⃣ 4-Sum
+2️⃣ Minimum difference between two sorted arrays
+3️⃣ Closest pair to target from 2 sorted arrays
+4️⃣ Partition array into even/odd
+5️⃣ Rearrange negatives and positives
